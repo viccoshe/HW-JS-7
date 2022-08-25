@@ -71,8 +71,8 @@ let LightBulb = function() {
   let lightBulb = new LightBulb('Kitchen');
   lightBulb.get();
   
-//Лампочка
-console.log('Лампочка' + '\n')
+//Чайник
+console.log('Чайник' + '\n')
   
   let Teapot = function() {
     this.get = function() {
